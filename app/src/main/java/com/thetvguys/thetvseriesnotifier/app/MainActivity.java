@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity
     FloatingActionButton fabWatchlistR;
 
 
-    /* TODO: remove this and its usages */
+    /* Variable um den momentan ausgewählten Tab einfach abfragen zu können*/
     int important = 0;
 
     /*
